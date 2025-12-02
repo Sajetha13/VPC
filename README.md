@@ -1,8 +1,6 @@
 ## Ex-4 Virtual Private Cloud (VPC)
 
 
----
-
 ## AIM
 To study the steps involved in setting up a private cloud using **AWS** or **Microsoft Azure** platforms and explore its core features and services.
 
